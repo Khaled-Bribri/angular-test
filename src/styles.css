@@ -1,4 +1,7 @@
 /* Application-wide Styles */
+.text-color{
+  color: red;
+}
 h1 {
     color: #369;
     font-family: Arial, Helvetica, sans-serif;
